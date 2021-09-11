@@ -8,7 +8,7 @@
 https://github.com/ChristianVerdin/NFL/blob/master/2020-QB-Efficiency.ipynb
 
 
-##NFC North 2020 QB Efficiency
+## NFC North 2020 QB Efficiency
 
 
 
